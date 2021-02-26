@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTutorial</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="where_are_we">Where are we</string>
+    <string name="going_today">going today?</string>
+    <string name="do_you_agree_with_the_new_list">Do you agree with the new list ?</string>
+    <string name="do_you_find_it_helpful">Do you find it helpful?</string>
+    <string name="seven_wonders">Seven Wonders</string>
+    <string name="of_the_world">of the World!</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="from_notification">From Notification</string>
+</resources>
